@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShaoliangWan
 - 👀 This is a christian~ ✨
-- 🌱 Studying in FZU, majoring in Eletrical Engineering.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Studying in FZU,
+- 💞️ Majoring in Eletrical Engineering,
 - 📫 My Email：1851001464@qq.com
 
 <!---
